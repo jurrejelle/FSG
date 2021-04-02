@@ -1,6 +1,6 @@
 include(ExternalProject)
 
-set(libcubiomes_URL "https://github.com/Cubitect/cubiomes/archive/02248659355e2022a4e8ff2784252885864e31ec.zip")
+set(libcubiomes_URL "https://github.com/Cubitect/cubiomes/archive/c0b600590982279780e8785e1345b0f25331f349.zip")
 set(libcubiomes_INSTALL "${CMAKE_CURRENT_BINARY_DIR}/third_party/libcubiomes")
 set(libcubiomes_LIB_DIR "${libcubiomes_INSTALL}/lib")
 set(libcubiomes_INCLUDE_DIR "${libcubiomes_INSTALL}/include")
